@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "landscapeConstraints">
+            </PersistentString>
+            <PersistentString
+               value = "portraitConstraints">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewWillTransition(to:with:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.bounds.width">
+            </PersistentString>
+            <PersistentString
+               value = "UIDevice.current.orientation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.applyLandscapeConstraints():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "landscapeConstraints">
+            </PersistentString>
+            <PersistentString
+               value = "portraitConstraints">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLayoutSubviews():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIDevice.current">
+            </PersistentString>
+            <PersistentString
+               value = "UIDevice.current.orientation.isPortrait">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "label2.bounds.height / 2 + 10 + imageView.bounds.height / 2">
+            </PersistentString>
+            <PersistentString
+               value = "UIDevice.current.orientation.isValidInterfaceOrientation">
+            </PersistentString>
+            <PersistentString
+               value = "view.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "UIApplication.shared.statusBarOrientation.isLandscape">
+            </PersistentString>
+            <PersistentString
+               value = "UIDevice.current.orientation.isLandscape">
+            </PersistentString>
+            <PersistentString
+               value = "UIInterfaceOrientation.landscapeLeft.isLandscape">
+            </PersistentString>
+            <PersistentString
+               value = "UIInterfaceOrientation.portrait.isPortrait">
+            </PersistentString>
+            <PersistentString
+               value = "UIApplication.shared.statusBarOrientation.isPortrait">
+            </PersistentString>
+            <PersistentString
+               value = "UIInterfaceOrientation.unknown.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "view.bounds.height / 10">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
